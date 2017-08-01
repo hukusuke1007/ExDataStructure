@@ -1,0 +1,22 @@
+[170][                            main] Start.
+[178][                            main] +------Multidimensional array-----+
+[160][ display_multidimensionall_array]  [100m]
+[162][ display_multidimensionall_array]  + name:       Usain Bolt, record:     9.58
+[162][ display_multidimensionall_array]  + name:    Justin Gatlin, record:     9.74
+[162][ display_multidimensionall_array]  + name:       Sani Brown, record:    10.05
+[160][ display_multidimensionall_array]  [42.195km]
+[162][ display_multidimensionall_array]  + name:          Kipruto, record:  2:02:57
+[162][ display_multidimensionall_array]  + name:         Kawauchi, record:  2:08:14
+[162][ display_multidimensionall_array]  + name:          Takaoka, record:  2:06:16
+[180][                            main] +---------------------------------+
+[191][                            main] +------One-dimensional array------+
+[133][   display_one_dimensional_array]  [100m]
+[149][   display_one_dimensional_array]  + name:       Usain Bolt, record:     9.58
+[149][   display_one_dimensional_array]  + name:    Justin Gatlin, record:     9.74
+[149][   display_one_dimensional_array]  + name:       Sani Brown, record:    10.05
+[133][   display_one_dimensional_array]  [42.195km]
+[149][   display_one_dimensional_array]  + name:          Kipruto, record:  2:02:57
+[149][   display_one_dimensional_array]  + name:         Kawauchi, record:  2:08:14
+[149][   display_one_dimensional_array]  + name:          Takaoka, record:  2:06:16
+[193][                            main] +---------------------------------+
+[198][                            main] Terminate.
